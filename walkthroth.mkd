@@ -1,0 +1,11 @@
+Criar a pasta do projeto
+
+### mkdir task-manager-dev
+
+Criar projeto initial
+
+### yarn add init -y
+
+Adicionar dependencias iniciais
+
+### yarn add adminjs @adminjs/express express express-formidable tslib
